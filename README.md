@@ -1,7 +1,3 @@
-Here is your final, "Boardroom-Ready" README.md.
-
-This version is written to attract the attention of Senior Engineers and Hiring Managers by focusing on the "Why" and "How" of your technical decisions.
-
 🔥 ForgeSense Intelligence (v3.0)
 An Industrial Decision-Support Suite for Modern Metallurgy.
 
@@ -64,4 +60,4 @@ Plaintext
 ├── requirements.txt          # Environment configuration
 └── sample_furnace_data.xlsx  # Standardized testing dataset
 👤 Author
-Aryan Tripathi Industrial AI | Data Engineering | Operational Excellence LinkedIn | Portfolio
+Aryan Tripathi Industrial AI | Data Engineering | Operational Excellence LinkedIn
